@@ -1,3 +1,31 @@
 body{
 	text-align:center;
 }
+
+.bg{
+	background-image: url("../images/fellowship.jpg");
+	height:100%;
+	background-position: center;
+	background-repeat: repeat;
+	background-size: cover;
+}
+
+.answer{
+	margin:5px;
+	border: 2px solid black;
+	background-color:lightblue;
+}
+
+.pageTitle{
+	color:white;
+}
+
+#timingSection{
+	background-color:black;
+	color:white;
+}
+
+#currentQuestion{
+	background-color:lightgreen;
+	border: 2px solid white;
+}
